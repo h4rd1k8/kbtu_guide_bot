@@ -1,5 +1,5 @@
-<img src="https://static-ck.okdesk.ru/okdesksite/pictures/115/content_bot.jpg">
-<img src="http://lib.almau.edu.kz/images/uploads/7b0788f2202b3569c9633648f9d139bb.jpeg">
+<img src="https://static-ck.okdesk.ru/okdesksite/pictures/115/content_bot.jpg" width="344" height="197">
+<img src="http://lib.almau.edu.kz/images/uploads/7b0788f2202b3569c9633648f9d139bb.jpeg" width="793" height="265">
 <h1>KBTU Guide Telegram bot</h1>
 <p>Bot for finding ways to any cabinets something like guide.</p>
 <h2>Contributing</h2>
