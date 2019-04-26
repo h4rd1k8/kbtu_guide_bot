@@ -1,5 +1,11 @@
+<style>
+	.images img{
+	margin-right: 15px;
+	margin-left: 15px;
+	}
+</style>
 <div class="images">
-	<img src="https://static-ck.okdesk.ru/okdesksite/pictures/115/content_bot.jpg" width="172" height="98">
+	<img src="https://static-ck.okdesk.ru/okdesksite/pictures/115/content_bot.jpg" width="172" height="98" margin-right=">
 	<img src="http://lib.almau.edu.kz/images/uploads/7b0788f2202b3569c9633648f9d139bb.jpeg" width="396" height="132">
 </div>
 <h1>KBTU Guide Telegram bot</h1>
