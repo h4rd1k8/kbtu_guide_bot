@@ -1,3 +1,4 @@
+<img source="https://static-ck.okdesk.ru/okdesksite/pictures/115/content_bot.jpg">
 <h1>KBTU Guide Telegram bot</h1>
 <p>Bot for finding ways to any cabinets something like guide.</p>
 <h2>Contributing</h2>
